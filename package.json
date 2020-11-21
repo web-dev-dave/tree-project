@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/web-dev-dave/tree-project/issues"
   },
-  "homepage": "https://github.com/web-dev-dave/tree-project#readme"
+  "homepage": "https://github.com/web-dev-dave/tree-project#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
 }
