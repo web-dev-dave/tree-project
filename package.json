@@ -1,0 +1,22 @@
+{
+  "name": "tree-project",
+  "version": "0.1.0",
+  "description": "personal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-dev-dave/tree-project.git"
+  },
+  "keywords": [
+    "tree"
+  ],
+  "author": "David Steel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-dev-dave/tree-project/issues"
+  },
+  "homepage": "https://github.com/web-dev-dave/tree-project#readme"
+}
